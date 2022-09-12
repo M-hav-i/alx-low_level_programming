@@ -1,12 +1,5 @@
 #include <stdio.h>                                                                                           
-
-                                                                                                             
-
-                                                                                                             
-
-                                                                                                             
-
-/**                                                                                                          
+/**         
 
  *                                                                                                           
 
@@ -27,9 +20,6 @@
                                                                                                              
 
 int main(void)                                                                                               
-
-                                                                                                             
-
 {                                                                                                            
 
         printf("gcc -E $CFILE - O c\n");                                                                     

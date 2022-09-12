@@ -15,7 +15,7 @@
 int main(void)
 
 {
-	printf("gcc -E $CFILE - O c\n");
+            printf("gcc -E $FILE -o c \n");
 	    return (0);
 
 }
